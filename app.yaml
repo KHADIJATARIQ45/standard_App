@@ -1,7 +1,7 @@
 runtime: python37
 
 handlers:
-- url: //
+- url: /
   static_files: www/index.html
   upload: www/(.*)
 
